@@ -1,4 +1,4 @@
-# recipe
+# RestroX
 
 A new Flutter project.
 
